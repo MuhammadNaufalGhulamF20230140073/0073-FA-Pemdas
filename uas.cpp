@@ -1,3 +1,8 @@
+// PERBAIKAN KODE 
+
+
+
+
 /**
  * @file uas.cpp
  * @author Muhammad Naufal Ghulam F
@@ -14,7 +19,6 @@ using namespace std;
 
 /**
  * @class MataKuliah
- * @brief Kelas abstrak untuk mata kuliah umum
  */
 class MataKuliah {
 private:
